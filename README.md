@@ -1,2 +1,0 @@
-# KedroSpaceflightsTutorial
-Kedro Spaceflights Tutorial
