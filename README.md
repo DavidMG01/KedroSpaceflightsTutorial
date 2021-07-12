@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Kedro Tutorial
+# Kedro Tutorial (the official exercise)
 
 ## Overview
 
